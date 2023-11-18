@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sowad223.sowad223" />
 
 <h1 align="center">
@@ -6,6 +7,10 @@
 </h1>
 
 <h3 align="center">A Programmer from Earth</h3>
+
+</br>
+
+<img align="center" alt="Code and Chill" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
 </br>
 
