@@ -1,5 +1,11 @@
 img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sowad223.sowad223"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowad223&label=Profile%20views&color=0e75b6&style=flat" alt="sowad223" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowad223" alt="sowad223" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <h1 align="center">
   <a heref="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+you+are+on+my+property...." alt="Typing SVG" /></a>
