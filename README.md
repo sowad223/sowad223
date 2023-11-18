@@ -42,7 +42,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,github,html,git" /><br>
-    <img src="https://skillicons.dev/icons?i=django,php,OpenCv,css,laravel,mysql,C++,linux," />
+    <img src="https://skillicons.dev/icons?i=django,php,css,laravel,mysql,C++,linux" />
   </a>
 </div> 
 
