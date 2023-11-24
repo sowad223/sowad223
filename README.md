@@ -82,14 +82,6 @@
   </a>
 </p>
 
-    }
-
-    setInterval(function() {
-      var randomTheme = getRandomTheme();
-      githubStreakImage.src = 'https://streak-stats.demolab.com?user=sowad223&theme=' + randomTheme + '&hide_border=true&date_format=M%20j%5B%2C%20Y%5D';
-    }, 1000);
-  }, 1000);
-</script>
 
 
 
