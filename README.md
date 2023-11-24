@@ -64,6 +64,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowad223&show_icons=true&locale=en" alt="sowad223" /></p>
   
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232)](https://codeforces.com/profile/Sowad232)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark)](https://codeforces.com/profile/Sowad232)
 
-
+[![Sowad's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark)](https://leetcode.com/Sowadrah/)
