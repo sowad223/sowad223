@@ -60,9 +60,9 @@
 <a href="https://codeforces.com/profile/Sowad232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sowad232" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowad223&show_icons=true&locale=en&layout=compact" alt="sowad223" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowad223&theme=dark&show_icons=true&locale=en&layout=compact" alt="sowad223" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowad223&show_icons=true&locale=en" alt="sowad223" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowad223&theme=dark&show_icons=true&locale=en" alt="sowad223" /></p>
   
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark)](https://codeforces.com/profile/Sowad232)
 
