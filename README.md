@@ -78,17 +78,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img id="githubStreak" src="https://streak-stats.demolab.com?user=sowad223&theme=holly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=sowad223&theme=holly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
 
-<script>
-  setTimeout(function() {
-    var githubStreakImage = document.getElementById('githubStreak');
-    var themes = ['holly', 'indigo', 'coral', 'yellow', 'electric'];
-
-    function getRandomTheme() {
-      return themes[Math.floor(Math.random() * themes.length)];
     }
 
     setInterval(function() {
