@@ -68,4 +68,4 @@
 
 [![Sowadrah's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark)](https://leetcode.com/Sowadrah/)
 
-[![hackerank stats](https://hackerrank-stats-six.vercel.app/?username=Sowadrahman3&theme=dark)](https://www.hackerrank.com/profile/Sowadrahman3)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sowad223&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
