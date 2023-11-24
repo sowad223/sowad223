@@ -67,3 +67,5 @@
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark)](https://codeforces.com/profile/Sowad232)
 
 [![Sowadrah's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark)](https://leetcode.com/Sowadrah/)
+
+[![hackerank stats](https://hackerrank-readme-stats.vercel.app/api/card?username=Sowadrahman3&theme=dark)](https://www.hackerrank.com/profile/Sowadrahman3)
