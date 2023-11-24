@@ -66,4 +66,4 @@
   
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark)](https://codeforces.com/profile/Sowad232)
 
-[![Sowad's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark)](https://leetcode.com/Sowadrah/)
+[![Sowadrah's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark)](https://leetcode.com/Sowadrah/)
