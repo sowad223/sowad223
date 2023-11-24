@@ -64,8 +64,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowad223&theme=dark&show_icons=true&locale=en" alt="sowad223" /></p>
   
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark)](https://codeforces.com/profile/Sowad232)
+<p align="center">
+  <a href="https://codeforces.com/profile/Sowad232">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark" alt="Codeforces Stats">
+  </a>
+</p>
 
 [![Sowadrah's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark)](https://leetcode.com/Sowadrah/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sowad223&theme=shadow-red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
