@@ -35,9 +35,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red" target="_blank/>
   </a>
       
-  <a href="https://codeforces.com/profile/Sowad232" target=_blank>
+ <a href="https://codeforces.com/profile/Sowad232" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target=_blank/>
-  </a>
+ </a>
   
   <a href="https://www.linkedin.com/in/sowad-rahman-b9b390283/" target=_blank>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_blank/>
