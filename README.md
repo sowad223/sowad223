@@ -70,11 +70,6 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark" alt="Codeforces Stats">
   </a>
 </p>
-<p align="center">
-  <a href="https://leetcode.com/Sowadrah/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=Sowadrah&theme=dark" alt="Sowadrah's LeetCode stats">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
