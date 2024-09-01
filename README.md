@@ -2,7 +2,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sowad223.sowad223" />
 
-
 <h1 align="center">
   <a heref="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+you+are+on+my+property...." alt="Typing SVG" /></a>
