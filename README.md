@@ -59,16 +59,7 @@
 <a href="https://www.youtube.com/channel/UCp9P1xeMLTB812nfUKpwabw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deadgamer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Sowadrahman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deadgamer223" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Sowad232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sowad232" height="30" width="40" /></a>
-  
-<a href="https://www.kaggle.com/sowaadrahman" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-</a>
 
-<p align="center">
-  <a href="https://www.kaggle.com/sowaadrahman">
-    <img src="https://kaggle-profile-readme-stats.vercel.app/api/detail?username=sowaadrahman" alt="Kaggle Stats">
-  </a>
-</p>
 
 </p>
 
