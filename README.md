@@ -82,11 +82,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.kaggle.com/sowaadrahman">
-    <img src="https://kaggle-profile-readme-stats.vercel.app/api/detail?username=sowaadrahman" alt="Kaggle Stats">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
