@@ -74,6 +74,12 @@
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/u/Sowadrah/">
+    <img src="https://leetcard.jacoblin.cool/yourusername?theme=dark&ext=heatmap" alt="LeetCode Stats">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sowad223&theme=holly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
