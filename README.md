@@ -67,17 +67,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowad223&theme=dark&show_icons=true&locale=en" alt="sowad223" /></p>
   
-<p align="center">
-  <a href="https://codeforces.com/profile/Sowad232">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark" alt="Codeforces Stats">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/Sowad232">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark" alt="Codeforces Stats">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/Sowadrah/">
+        <img src="https://leetcard.jacoblin.cool/Sowadrah?theme=dark" alt="LeetCode Stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://leetcode.com/Sowadrah/">
-    <img src="https://leetcard.jacoblin.cool/Sowadrah?theme=dark" alt="LeetCode Stats">
-  </a>
-</p>
 
 
 <p align="center">
