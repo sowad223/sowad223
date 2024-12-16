@@ -74,10 +74,11 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Sowadrah/">
-    <img src="https://leetcard.jacoblin.cool/yourusername?theme=dark&ext=heatmap" alt="LeetCode Stats">
+  <a href="https://leetcode.com/Sowadrah/">
+    <img src="https://leetcard.jacoblin.cool/Sowadrah?theme=dark" alt="LeetCode Stats">
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
