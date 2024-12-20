@@ -69,12 +69,12 @@
   
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://codeforces.com/profile/Sowad232">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sowad232&theme=dark" alt="Codeforces Stats">
       </a>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://leetcode.com/Sowadrah/">
         <img src="https://leetcard.jacoblin.cool/Sowadrah?theme=dark" alt="LeetCode Stats" height="120">
       </a>
