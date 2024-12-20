@@ -76,9 +76,10 @@
     </td>
     <td align="center">
       <a href="https://leetcode.com/Sowadrah/">
-        <img src="https://leetcard.jacoblin.cool/Sowadrah?theme=dark" alt="LeetCode Stats">
+        <img src="https://leetcard.jacoblin.cool/Sowadrah?theme=dark" alt="LeetCode Stats" height="120">
       </a>
-    </td>
+     </td>
+
   </tr>
 </table>
 
