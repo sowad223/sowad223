@@ -10,16 +10,16 @@
   </a>
 </h1>
 
-<h3 align="center">A Programmer from Earth</h3>
+<h3 align="center">A Programmer from <u>Earth</u> 🌍</h3>
 
 <img align="center" alt="Code and Chill" width="250" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
 <div align="center">
-  - 🔭 I’m currently working on **Open CV**  
-  - 🌱 I’m currently learning **MERN, OPEN CV, PHP, LARAVEL**  
-  - 💬 Ask me about **Python, Django, Java, or anything**  
-  - 📫 How to reach me **sowadrahman3@gmail.com**  
-  - ⚡ Fun fact **Assassin's Creed**
+  - 🔭 I’m currently working on **<u>Open CV</u>**  
+  - 🌱 I’m currently learning **<u>MERN, OPEN CV, PHP, LARAVEL</u>**  
+  - 💬 Ask me about **<u>Python, Django, Java, or anything</u>**  
+  - 📫 How to reach me **<u>sowadrahman3@gmail.com</u>**  
+  - ⚡ Fun fact **<u>Assassin's Creed</u> 🎮**
 </div>
 
 <div align="center">
