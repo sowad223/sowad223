@@ -84,9 +84,4 @@
 
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sowad223&theme=holly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-</p>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=sowad22342&theme=github_dark&hide_border=true)
