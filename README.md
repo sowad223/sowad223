@@ -62,13 +62,9 @@
 <a href="https://www.hackerrank.com/profile/Sowadrahman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deadgamer223" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Sowad232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sowad232" height="30" width="40" /></a>
 
-
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowad223&theme=dark&show_icons=true&locale=en&layout=compact" alt="sowad223" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowad223&theme=dark&show_icons=true&locale=en" alt="sowad223" /></p>
-  
 <table align="center" style="width: 100%;">
   <tr>
     <td align="center" style="width: 50%;">
@@ -83,8 +79,5 @@
     </td>
   </tr>
 </table>
-
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sowad223&theme=github_dark&hide_border=true)
 
