@@ -79,5 +79,5 @@
     </td>
   </tr>
 </table>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sowad223&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowad223&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
