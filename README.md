@@ -79,5 +79,5 @@
     </td>
   </tr>
 </table>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowad223&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sowad223&theme=dark-minimalist&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
