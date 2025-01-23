@@ -79,5 +79,4 @@
     </td>
   </tr>
 </table>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sowad223&theme=dark-minimalist&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
